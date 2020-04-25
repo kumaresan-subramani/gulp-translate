@@ -1,0 +1,13 @@
+{
+  "name": "gulp-translate",
+  "version": "1.0.0",
+  "description": "Trigger all EJ2 components Jenkins CI build by using a single gulp task",
+  "author": "kumaresan",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "google-translate-api": "^2.3.0",
+    "gulp": "^4.0.2",
+    "shelljs": "^0.8.3"
+  }
+}
